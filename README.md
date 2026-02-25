@@ -4,24 +4,18 @@
   <br /><br />
   <strong>Your agents. Your machines. Your rules.</strong>
   <br /><br />
-  <a href="https://dspatch.dev/">
-    <img src="https://img.shields.io/badge/Website-c4f042?style=for-the-badge" alt="Website" />
-  </a>
+  <a href="https://dspatch.dev/"><img src="https://img.shields.io/badge/Website-c4f042?style=for-the-badge" alt="Website" /></a>
   &nbsp;
-  <a href="https://docs.dspatch.dev/">
-    <img src="https://img.shields.io/badge/Docs-c4f042?style=for-the-badge" alt="Docs" />
-  </a>
+  <a href="https://docs.dspatch.dev/"><img src="https://img.shields.io/badge/Docs-c4f042?style=for-the-badge" alt="Docs" /></a>
   &nbsp;
-  <a href="https://dspatch.dev/">
-    <img src="https://img.shields.io/badge/Early_Access-c4f042?style=for-the-badge" alt="Early Access" />
-  </a>
+  <a href="https://dspatch.dev/"><img src="https://img.shields.io/badge/Early_Access-c4f042?style=for-the-badge" alt="Early Access" /></a>
   <br /><br />
   <sub>Open-source agent orchestration platform.<br />Sandboxed Docker execution · Signal Protocol encryption · Cross-platform control.</sub>
   <br /><br />
-</div>
 
 Open-source agent orchestration platform.
 Sandboxed Docker execution. Signal Protocol encryption. Cross-platform control.
+</div>
 
 ---
 
@@ -34,22 +28,22 @@ Sandboxed Docker execution. Signal Protocol encryption. Cross-platform control.
 
 ---
 <div align="center">
-  <img src="https://img.shields.io/badge/Rust-1a1a2e?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Rust-1a1a2e?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Axum-1a1a2e?style=flat-square" alt="Axum" />
+  <img src="https://img.shields.io/badge/Axum-1a1a2e?style=for-the-badge" alt="Axum" />
   &nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Flutter-1a1a2e?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Flutter-1a1a2e?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Signal_Protocol-1a1a2e?style=flat-square&logo=signal&logoColor=white" alt="Signal Protocol" />
+  <img src="https://img.shields.io/badge/Signal_Protocol-1a1a2e?style=for-the-badge&logo=signal&logoColor=white" alt="Signal Protocol" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   &nbsp;
-  <img src="https://img.shields.io/badge/WebRTC-1a1a2e?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC" />
+  <img src="https://img.shields.io/badge/WebRTC-1a1a2e?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
   <br /><br />
 
-  <a href="https://github.com/dspatch/dspatch.app">
-    <img src="https://img.shields.io/badge/dspatch.app-Open_source_Flutter_app-1a1a2e?style=flat-square&logo=github&logoColor=white&labelColor=c4f042" alt="dspatch.app" />
+  <a href="https://github.com/dspatch/dspatch.app" style="text-decoration:none">
+    <img src="https://img.shields.io/badge/dspatch.app-Open_source_Flutter_app-1a1a2e?style=for-the-badge&logo=github&logoColor=black&labelColor=c4f042" alt="dspatch.app" />
   </a>
 </div>
