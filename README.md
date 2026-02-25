@@ -6,7 +6,7 @@
   <br /><br />
   <a href="https://dspatch.dev/"><img src="https://img.shields.io/badge/Website-c4f042?style=for-the-badge" alt="Website" /></a>
   &nbsp;
-  <a href="https://docs.dspatch.dev/"><img src="https://img.shields.io/badge/Docs-c4f042?style=for-the-badge" alt="Docs" /></a>
+  <a href="https://dspatch.dev/docs"><img src="https://img.shields.io/badge/Docs-c4f042?style=for-the-badge" alt="Docs" /></a>
   &nbsp;
   <a href="https://dspatch.dev/"><img src="https://img.shields.io/badge/Early_Access-c4f042?style=for-the-badge" alt="Early Access" /></a>
   <br /><br />
