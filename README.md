@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="{{LOGO_URL}}" alt="d:spatch" width="140" />
+  <img src="https://dspatch.dev/fulllogo.png" alt="d:spatch" width="140" />
   <br /><br />
   <strong>Your agents. Your machines. Your rules.</strong>
   <br /><br />
